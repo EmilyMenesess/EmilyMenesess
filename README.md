@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmilyMenesess
 - 👀 I’m interested in Front-end
-- 🌱 I’m currently learning HTML E CSS
+- 🌱 I’m currently learning HTML, CSS e JavaScript
 - 📫 How to reach me (emilymeneses1001@gmail.com)
 
 
